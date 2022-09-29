@@ -20,6 +20,18 @@ body {
   margin-bottom: 100px;
 }
 
+.footer {
+  background-color: rgb(59, 59, 59);
+  margin-top: 50px;
+  margin-bottom: -50px;
+  flex-direction: row;
+  text-align: center;
+}
+
+.footer-span {
+  color: rgb(215, 215, 215);
+}
+
 .hero-container {
   display: flex;
   text-align: center;
@@ -74,6 +86,10 @@ ul li {
   .mobile-bag-logo {
     display: none;
   }
+}
+
+.text-muted {
+  color: white;
 }
 
 .nav-item {
