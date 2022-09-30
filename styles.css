@@ -29,7 +29,8 @@ body {
 }
 
 .footer-span {
-  color: rgb(215, 215, 215);
+  color: rgb(138, 138, 138);
+  margin-top: 50px;
 }
 
 .hero-container {
@@ -48,6 +49,7 @@ ul li {
 
 .macbook-div {
   background-image: url("apple_pictures/computer.jpeg");
+  background-attachment: fixed;
   background-repeat: no-repeat;
   background-size: cover;
   height: 500px;
