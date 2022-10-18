@@ -43,7 +43,8 @@ body {
 }
 
 ul li {
-  list-style-position: inside;
+  list-style: none;
+  margin-right: 35px;
 }
 
 li::marker {
