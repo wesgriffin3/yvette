@@ -42,6 +42,11 @@ body {
   background-color: blue;
 }
 
+.coming-soon {
+  justify-content: center;
+  color: rgb(138, 138, 138);
+}
+
 ul li {
   list-style: none;
   margin-right: 35px;
