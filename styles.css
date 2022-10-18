@@ -43,8 +43,11 @@ body {
 }
 
 ul li {
-  list-style: none;
-  margin-right: 35px;
+  list-style-position: inside;
+}
+
+li::marker {
+  color: grey;
 }
 
 .macbook-div {
